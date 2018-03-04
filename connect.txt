@@ -1,0 +1,8 @@
+<?php
+$server = "ix-dev.cs.uoregon.edu";
+$dbname ="407P";
+$user = "fkent";
+$pass = "Redbunny4896";
+$port="3602";
+$charset = 'utf8mb4';
+?>
